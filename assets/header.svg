@@ -1,24 +1,29 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="440" viewBox="0 0 1200 440" fill="none" xmlns="http://www.w3.org/2000/svg">
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#05070B"/><stop offset="0.55" stop-color="#0B111A"/><stop offset="1" stop-color="#101020"/></linearGradient>
-<linearGradient id="accent" x1="90" y1="250" x2="1110" y2="80" gradientUnits="userSpaceOnUse"><stop stop-color="#22D3EE"/><stop offset="0.52" stop-color="#60A5FA"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
-<filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-<clipPath id="clip"><rect width="1200" height="360" rx="22"/></clipPath>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#05070B"/><stop offset="0.55" stop-color="#0A1018"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  <linearGradient id="line" x1="60" y1="360" x2="1120" y2="80" gradientUnits="userSpaceOnUse"><stop stop-color="#22D3EE"/><stop offset="0.5" stop-color="#3B82F6"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="clip"><rect width="1200" height="440" rx="24"/></clipPath>
 </defs>
-<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="440" rx="24" fill="url(#bg)"/>
 <g clip-path="url(#clip)">
-<g opacity="0.13" stroke="#64748B"><path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M0 350H1200"/><path d="M80 0V360M220 0V360M360 0V360M500 0V360M640 0V360M780 0V360M920 0V360M1060 0V360"/></g>
-<g opacity="0.35" stroke="url(#accent)"><path d="M760 30L930 120L1090 55L1210 130"/><path d="M690 315L820 240L970 300L1130 220L1210 260"/><path d="M850 0L900 80L1020 95L1080 175L1200 190"/></g>
-<path d="M0 292C145 240 230 315 355 255C495 188 560 285 705 224C845 165 930 275 1060 205C1125 171 1160 176 1200 148" stroke="url(#accent)" stroke-width="2.5" opacity="0.9"/>
-<circle cx="355" cy="255" r="4" fill="#22D3EE" filter="url(#glow)"><animate attributeName="r" values="3;8;3" dur="2.2s" repeatCount="indefinite"/></circle>
-<circle cx="705" cy="224" r="4" fill="#60A5FA" filter="url(#glow)"><animate attributeName="r" values="3;8;3" dur="2.6s" repeatCount="indefinite"/></circle>
-<circle cx="1060" cy="205" r="4" fill="#A78BFA" filter="url(#glow)"><animate attributeName="r" values="3;8;3" dur="2.9s" repeatCount="indefinite"/></circle>
-<rect x="0" y="0" width="2" height="360" fill="#22D3EE" opacity="0.7"><animate attributeName="x" values="0;1200;0" dur="8s" repeatCount="indefinite"/></rect>
+  <g opacity="0.08" stroke="#94A3B8"><path d="M0 80H1200M0 160H1200M0 240H1200M0 320H1200M0 400H1200"/><path d="M100 0V440M260 0V440M420 0V440M580 0V440M740 0V440M900 0V440M1060 0V440"/></g>
+  <g opacity="0.22" stroke="url(#line)" stroke-width="1.2"><path d="M690 55L810 130L940 85L1090 170L1210 120"/><path d="M650 390L790 300L930 350L1040 265L1210 315"/><path d="M850 0L885 75L1010 105L1050 185L1200 215"/></g>
+  <path d="M560 370C680 300 735 350 825 280C915 210 945 270 1020 210C1080 160 1140 175 1200 125" stroke="url(#line)" stroke-width="2.5" opacity="0.95"/>
+  <path d="M560 370C680 300 735 350 825 280C915 210 945 270 1020 210C1080 160 1140 175 1200 125" stroke="#60A5FA" stroke-width="10" opacity="0.08" filter="url(#glow)"/>
+  <g filter="url(#glow)">
+    <circle cx="825" cy="280" r="4" fill="#22D3EE"><animate attributeName="r" values="3;8;3" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1020" cy="210" r="4" fill="#60A5FA"><animate attributeName="r" values="3;8;3" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="1140" cy="175" r="4" fill="#A78BFA"><animate attributeName="r" values="3;8;3" dur="3.1s" repeatCount="indefinite"/></circle>
+  </g>
+  <rect x="560" y="0" width="2" height="440" fill="#22D3EE" opacity="0.65"><animate attributeName="x" values="560;1180;560" dur="9s" repeatCount="indefinite"/></rect>
 </g>
-<text x="76" y="112" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">David Morales Guerrero</text>
-<text x="79" y="158" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="23">Software Development Student · IT Technician</text>
-<g font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600"><rect x="78" y="190" width="75" height="30" rx="15" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.55"/><text x="100" y="210" fill="#67E8F9">C#</text><rect x="163" y="190" width="78" height="30" rx="15" fill="#0F172A" stroke="#60A5FA" stroke-opacity="0.55"/><text x="181" y="210" fill="#93C5FD">.NET</text><rect x="251" y="190" width="78" height="30" rx="15" fill="#0F172A" stroke="#A78BFA" stroke-opacity="0.55"/><text x="271" y="210" fill="#C4B5FD">SQL</text><rect x="339" y="190" width="110" height="30" rx="15" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.55"/><text x="360" y="210" fill="#67E8F9">REST APIs</text><rect x="459" y="190" width="68" height="30" rx="15" fill="#0F172A" stroke="#60A5FA" stroke-opacity="0.55"/><text x="480" y="210" fill="#93C5FD">AWS</text></g>
-<line x1="79" y1="246" x2="530" y2="246" stroke="url(#accent)" stroke-width="2"/>
-<text x="79" y="274" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="15">Building practical software through real projects and continuous learning.</text>
-<text x="79" y="314" fill="#475569" font-family="monospace" font-size="13">MÉRIDA · YUCATÁN · MÉXICO</text><text x="1040" y="314" fill="#475569" font-family="monospace" font-size="13">@Dave2826</text>
+<text x="72" y="112" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">David Morales Guerrero</text>
+<text x="74" y="154" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="22">Software Development Student  |  IT Technician</text>
+<text x="74" y="205" fill="#67E8F9" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">BACKEND  ·  DATABASES  ·  REST APIs  ·  CLOUD</text>
+<line x1="74" y1="232" x2="500" y2="232" stroke="url(#line)" stroke-width="2"/>
+<text x="74" y="272" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="17">Building practical software through real projects,</text>
+<text x="74" y="299" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="17">academic work and continuous technical growth.</text>
+<text x="74" y="352" fill="#64748B" font-family="monospace" font-size="13">MÉRIDA · YUCATÁN · MÉXICO</text>
+<text x="1060" y="400" fill="#475569" font-family="monospace" font-size="13">@Dave2826</text>
 </svg>
