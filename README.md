@@ -12,17 +12,23 @@
 
 <br>
 
-<h2>Software Development Student · IT Technician</h2>
+## Software Development Student · IT Technician
 
-I am a Software Development student and IT Technician based in Mérida, Yucatán, Mexico, with 9+ years of professional experience in technical support, computer maintenance, networking and information analysis.
+Software Development student and IT Technician based in Mérida, Yucatán, Mexico, with 9+ years of professional experience in technical support, computer maintenance, networking and information analysis.
 
-I am currently transitioning that practical IT background into software engineering through academic work and real projects, with a strong focus on backend development, databases, REST APIs, cloud technologies and applied artificial intelligence.
+Currently building my software engineering profile through academic work and practical projects, with a focus on backend development, databases, REST APIs, cloud technologies and applied artificial intelligence.
 
-I am currently looking for opportunities in software development, including Dual-program placements, internships and junior-level technical roles.
+I am currently looking for Dual-program placements, internships and junior software development opportunities.
 
----
+## Professional advantage
 
-## Engineering profile
+| Experience | Development | Engineering mindset |
+|---|---|---|
+| 9+ years working with IT, hardware, support and networking | C#/.NET, SQL, APIs, Python and web development | Problem solving, documentation, organization and continuous learning |
+
+This combination allows me to approach software projects from both the development side and the real technical environment where systems are used.
+
+## Engineering stack
 
 <table>
 <tr>
@@ -32,7 +38,7 @@ I am currently looking for opportunities in software development, including Dual
 </tr>
 <tr>
 <td><strong>Web</strong><br>HTML · CSS · JavaScript</td>
-<td><strong>Development</strong><br>Git · GitHub · Linux · Visual Studio</td>
+<td><strong>Tools</strong><br>Git · GitHub · Linux · Visual Studio</td>
 <td><strong>Engineering</strong><br>Architecture · Documentation · Problem Solving</td>
 </tr>
 </table>
@@ -41,6 +47,7 @@ I am currently looking for opportunities in software development, including Dual
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,7 +67,7 @@ I am currently looking for opportunities in software development, including Dual
 
 <strong>C# · .NET · SQL · CRUD · Business Logic</strong>
 
-Motorcycle management platform built to practice application architecture, structured data, CRUD operations and business rules in a practical domain.
+Motorcycle management platform focused on structured data, CRUD operations, business rules and practical application development.
 
 <a href="https://github.com/Dave2826/MotoTrack">View repository →</a>
 
@@ -69,7 +76,7 @@ Motorcycle management platform built to practice application architecture, struc
 
 ### Atlas
 
-<strong>C# · .NET · ASP.NET MVC · PostgreSQL</strong>
+<strong>C# · ASP.NET MVC · PostgreSQL · JavaScript</strong>
 
 Business management platform designed for a family-owned retail store, focused on inventory, sales operations and process organization.
 
@@ -82,7 +89,7 @@ Business management platform designed for a family-owned retail store, focused o
 
 ### MotoMods API
 
-<strong>API · Backend · Motorcycle data</strong>
+<strong>Backend · REST API · Motorcycle data</strong>
 
 Backend project focused on API development and structured motorcycle-related data management.
 
@@ -95,7 +102,7 @@ Backend project focused on API development and structured motorcycle-related dat
 
 <strong>Architecture · Databases · Web · APIs</strong>
 
-A collection of academic projects covering software architecture, databases, web development, programming fundamentals and application design.
+Academic work covering software architecture, databases, web development, programming fundamentals and application design.
 
 <a href="https://github.com/Dave2826?tab=repositories">Explore repositories →</a>
 
@@ -134,7 +141,7 @@ AWS fundamentals, Cloud Operations, Linux, Git, GitHub and practical IT infrastr
 
 <strong>Applied AI</strong>
 
-Exploring practical uses of artificial intelligence for software development, automation, planning and problem solving.
+Practical uses of artificial intelligence for software development, automation, planning and problem solving.
 
 </td>
 </tr>
@@ -144,8 +151,8 @@ Exploring practical uses of artificial intelligence for software development, au
 
 | Area | Certification / Training |
 |---|---|
-| Cloud | AWS Academy Graduate - Cloud Operations |
-| Cloud | AWS Academy Graduate - Cloud Foundations |
+| Cloud | AWS Academy Graduate — Cloud Operations |
+| Cloud | AWS Academy Graduate — Cloud Foundations |
 | Artificial Intelligence | AI Fundamentals |
 | Artificial Intelligence | AI for Brainstorming and Planning |
 | Cybersecurity | Administration of Cyber Threats |
@@ -156,13 +163,7 @@ Exploring practical uses of artificial intelligence for software development, au
 
 ## Currently learning
 
-- Software development with C# and .NET
-- SQL and PostgreSQL
-- REST API development
-- Cloud technologies with AWS
-- Python
-- Applied artificial intelligence
-- Software architecture and database design
+`C# & .NET` · `SQL & PostgreSQL` · `REST API Development` · `AWS` · `Python` · `Applied AI` · `Software Architecture`
 
 ## GitHub activity
 
@@ -170,18 +171,17 @@ Exploring practical uses of artificial intelligence for software development, au
 
 [![GitHub followers](https://img.shields.io/github/followers/Dave2826?style=for-the-badge&logo=github&label=Followers)](https://github.com/Dave2826)
 [![GitHub stars](https://img.shields.io/github/stars/Dave2826?style=for-the-badge&logo=github&label=Stars)](https://github.com/Dave2826?tab=repositories)
-[![Public repositories](https://img.shields.io/badge/Public%20repositories-19-181717?style=for-the-badge&logo=github)](https://github.com/Dave2826?tab=repositories)
 [![GitHub profile](https://img.shields.io/badge/GitHub-Dave2826-181717?style=for-the-badge&logo=github)](https://github.com/Dave2826)
 
 </div>
 
-> My contribution history and activity are displayed directly by GitHub on my profile, keeping this section lightweight and avoiding external statistics services.
+My contribution history and development activity are displayed directly by GitHub on my profile.
 
 ## Professional profile
 
-My background combines hands-on IT experience with formal software development training. I approach development from both sides: understanding the technical problem and building a practical solution.
+My background combines hands-on IT experience with formal software development training. I approach development from both sides: understanding the technical problem, the environment where the system will operate and the software solution required.
 
-I value clean organization, documentation, continuous learning, teamwork and solving problems with the tools that best fit the project.
+I value clean organization, documentation, teamwork, continuous learning and selecting the tools that best fit the project.
 
 ## Contact
 
