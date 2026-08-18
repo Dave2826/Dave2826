@@ -167,15 +167,15 @@ Exploring practical uses of artificial intelligence for software development, au
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dave2826&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dave2826&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages" />
+
+[![GitHub followers](https://img.shields.io/github/followers/Dave2826?style=for-the-badge&logo=github&label=Followers)](https://github.com/Dave2826)
+[![GitHub stars](https://img.shields.io/github/stars/Dave2826?style=for-the-badge&logo=github&label=Stars)](https://github.com/Dave2826?tab=repositories)
+[![Public repositories](https://img.shields.io/badge/Public%20repositories-19-181717?style=for-the-badge&logo=github)](https://github.com/Dave2826?tab=repositories)
+[![GitHub profile](https://img.shields.io/badge/GitHub-Dave2826-181717?style=for-the-badge&logo=github)](https://github.com/Dave2826)
+
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dave2826&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</div>
+> My contribution history and activity are displayed directly by GitHub on my profile, keeping this section lightweight and avoiding external statistics services.
 
 ## Professional profile
 
